@@ -33,14 +33,6 @@ Built with **clean HTML, CSS, and JS**, this UI is both stylish and ready for pr
 - ✅ Ready for backend linking (Flask/Node.js etc.)
 
 
-## 🔗 Badges
-
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow)
-![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-brightgreen)
-
-
 ## Inspired by:  
 Her fav colour🤍✨
 
