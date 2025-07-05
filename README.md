@@ -38,4 +38,4 @@ Her fav colour🤍✨
 
 ## 📬 Contact
 Built with ❤️ by **Gokul**    
-Want to collaborate? Reach out via openning an issue.
+Want do contribute? Reach out via openning an issue.
